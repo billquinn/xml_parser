@@ -1,2 +1,2 @@
 # xml_parser
-I have used these xml parsers to work with structured data from the Modernist Journals Project and the Women Writers Project.
+I have used these xml parsers to work with structured data from the Modernist Journals Project and the Women Writers Project. Because I'm working with lots of text, which can quickly congest my laptop, I tend to sort metadata and content into two separate files. I create unique identifies so that I'm able to associate and reconnect metadata to the content it describes. The output of these parsers (two .tsv's) are useful for text analysis.
